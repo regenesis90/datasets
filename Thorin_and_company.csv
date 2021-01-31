@@ -1,0 +1,16 @@
+name,race,hometown,position,age,year_b,year_d,fo1_lm
+Thorin II Oakenshield,Dwarves,Erebor,leader,195,2746,2941,0
+Gloin,Dwarves,Erebor,combatant,158,2783,15,1
+Balin,Dwarves,Erebor,combatant,178,2793,2994,0
+Dwalin,Dwarves,Erebor,combatant,169,2772,91,1
+Oin,Dwarves,Erebor,combatant,167,2774,2994,0
+Ori,Dwarves,Erebor,combatant,,,2994,0
+Nori,Dwarves,Erebor,combatant,,,,1
+Dori,Dwarves,Erebor,combatant,,,,1
+Fili,Dwarves,Blue Mountains,combatant,82,2859,2941,0
+Kili,Dwarves,Blue Mountains,combatant,77,2864,2941,0
+Bofur,Dwarves,Erebor,combatant,,,,1
+Bifur,Dwarves,Erebor,combatant,,,,1
+Bombur,Dwarves,Erebor,combatant,,,,1
+Gandalf,Istari,,wizard,5000,,,
+Bilbo Baggins,Hobbit,Shire,burglar,50,2890,,
