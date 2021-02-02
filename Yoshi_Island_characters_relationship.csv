@@ -1,0 +1,15 @@
+from,to,importance,relation
+Yoshi,Baby Mario,5,friend
+Yoshi,Baby Luigi,1,friend
+Yoshi,Baby Bowser,2,foe
+Yoshi,Kamek,3,foe
+Yoshi,Poochy,2,friend
+Yoshi,Stork,1,friend
+Baby Mario,Baby Luigi,5,brother
+Baby Mario,Baby Bowser,1,foe
+Baby Mario,Kamek,2,foe
+Baby Mario,Stork,1,friend
+Baby Luigi,Kamek,3,foe
+Baby Luigi,Stork,1,friend
+Baby Bowser,Kamek,4,friend
+Kamek,Stork,1,foe
