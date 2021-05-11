@@ -5,5 +5,5 @@
 
 ## Reference
 
-* *sample06_worldbank.csv* from ExPanDaR package in R
-* *sample07_worldbank.csv* from ExPanDaR package in R
+* *sample06_worldbank.csv* : Part of the datasets from ExPanDaR package in R
+* *sample07_worldbank.csv* : Part of the datasets from ExPanDaR package in R
